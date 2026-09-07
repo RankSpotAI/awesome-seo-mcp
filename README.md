@@ -128,6 +128,7 @@ Multiple SEO functions behind one connection, mostly community wrappers around v
 | [Skobyn/dataforseo-mcp-server](https://github.com/Skobyn/dataforseo-mcp-server) | Community DataForSEO server, 12 API categories and 40+ tools | Local | API key | 82 | 2026-06-04 |
 | [mrkooblu/semrush-mcp](https://github.com/mrkooblu/semrush-mcp) | 77 tools against the Semrush API, predates the official server | Local | API key | 39 | 2026-03-18 |
 | [metehan777/semrush-mcp](https://github.com/metehan777/semrush-mcp) | Lighter alternative Semrush implementation | Local | API key | 16 | 2025-06-03 |
+| [AltoRank/altorank](https://github.com/AltoRank/altorank) | Keyword research, domain readiness audit, Search Console and Bing data, draft generation and AI-answer visibility; readiness tools work with no key | Local | API key | 1 | 2026-09-07 |
 | [TeamDay-AI/se-ranking-mcp](https://github.com/TeamDay-AI/se-ranking-mcp) | SE Ranking fork adding per-request credentials, useful for agencies | Local | API key | 0 | 2026-04-20 |
 | [Minh42/seomatic-mcp](https://github.com/Minh42/seomatic-mcp) | Search Console, keywords, backlinks and AI visibility with approval-gated actions | Remote | API key | 0 | 2026-09-02 |
 | [ezbiz-services/mcp-seo-marketing](https://github.com/ezbiz-services/mcp-seo-marketing) | Keyword research, SERP analysis, backlink checking, content optimisation | Local | API key | 0 | 2026-02-28 |
