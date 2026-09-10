@@ -118,6 +118,7 @@ Google has no official GSC MCP server as of September 2026, so this category is 
 | [metehan777/moz-mcp](https://github.com/metehan777/moz-mcp) | Moz API v3, Domain Authority and Page Authority. Moz has no official server | Local | API key | 15 | 2025-06-13 |
 | [Rankparse/rankparse-mcp](https://github.com/Rankparse/rankparse-mcp) | 18+ tools for backlinks, domain authority and tech stack detection | Local | API key | 4 | 2026-05-23 |
 | [MattiooFR/majestic-mcp](https://github.com/MattiooFR/majestic-mcp) | Majestic Trust Flow, Citation Flow and backlink data | Local | API key | 0 | 2026-02-03 |
+| [LinkBunny](https://getlinkbunny.com/docs/agents) | Owner-authorized contextual nofollow link opportunities and marketplace workflows | Local | API key | n/a | live |
 
 ## SEO suites
 
