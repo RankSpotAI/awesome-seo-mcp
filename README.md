@@ -76,6 +76,7 @@ Run by the vendor. These are the ones to reach for first if you already pay for 
 | Peec AI | `https://api.peec.ai/mcp` |
 | SEOmonitor | `https://mcp.seomonitor.com` |
 | RankSpot | `https://mcp.rankspot.ai` |
+| Asked Thrice | `https://mcp.askedthrice.com/mcp` |
 
 ## Google Search Console
 
@@ -169,6 +170,7 @@ The newest and fastest moving category. Most entries here are under a year old.
 | [bestaiinsider/ai-visibility-mcp](https://github.com/bestaiinsider/ai-visibility-mcp) | Audits robots.txt per bot, JSON-LD, llms.txt and brand mentions in answers | Local | API key | 1 | 2026-05-23 |
 | [maxaeo/maxaeo-ai-visibility-mcp](https://github.com/maxaeo/maxaeo-ai-visibility-mcp) | Local-first GEO and AEO audit covering llms.txt, schema and crawler readiness | Local | None | 1 | 2026-08-26 |
 | [migkast/seoforgpt-mcp](https://github.com/migkast/seoforgpt-mcp) | Brand visibility in AI answers, competitor monitoring and cited sources | Local | API key | 1 | 2026-08-31 |
+| [nahuelsoria/llmaudit-mcp](https://github.com/nahuelsoria/llmaudit-mcp) | Runs an AI visibility check on a domain: asks the model APIs a buyer's questions and returns which brands each answer named, with counts | Remote | None | 1 | 2026-08-30 |
 | [Instilla-AI/seontology-mcp-server](https://github.com/Instilla-AI/seontology-mcp-server) | Semantic SEO analysis using the SEOntology vocabulary | Local | None | 0 | 2025-09-04 |
 
 ## Indexing, sitemaps and llms.txt
