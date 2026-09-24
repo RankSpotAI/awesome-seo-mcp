@@ -76,6 +76,7 @@ Run by the vendor. These are the ones to reach for first if you already pay for 
 | Peec AI | `https://api.peec.ai/mcp` |
 | SEOmonitor | `https://mcp.seomonitor.com` |
 | RankSpot | `https://mcp.rankspot.ai` |
+| Robot Speed | `https://www.robot-speed.com/api/mcp` (OAuth) · `https://www.robot-speed.com/api/mcp/free` (no auth, 12 free tools) |
 
 ## Google Search Console
 
@@ -128,6 +129,7 @@ Multiple SEO functions behind one connection, mostly community wrappers around v
 | [Skobyn/dataforseo-mcp-server](https://github.com/Skobyn/dataforseo-mcp-server) | Community DataForSEO server, 12 API categories and 40+ tools | Local | API key | 82 | 2026-06-04 |
 | [mrkooblu/semrush-mcp](https://github.com/mrkooblu/semrush-mcp) | 77 tools against the Semrush API, predates the official server | Local | API key | 39 | 2026-09-09 |
 | [metehan777/semrush-mcp](https://github.com/metehan777/semrush-mcp) | Lighter alternative Semrush implementation | Local | API key | 16 | 2025-06-03 |
+| [robot-speed/mcp](https://github.com/robot-speed/mcp) | Hosted SEO server: 8-category audits, Core Web Vitals, meta/schema/noindex checks, keywords, AI visibility, GSC traffic, backlinks and CMS publishing. 12 read-only tools work without an account | Remote | OAuth | 1 | 2026-09-24 |
 | [TeamDay-AI/se-ranking-mcp](https://github.com/TeamDay-AI/se-ranking-mcp) | SE Ranking fork adding per-request credentials, useful for agencies | Local | API key | 0 | 2026-04-20 |
 | [Minh42/seomatic-mcp](https://github.com/Minh42/seomatic-mcp) | Search Console, keywords, backlinks and AI visibility with approval-gated actions | Remote | API key | 0 | 2026-09-11 |
 | [ezbiz-services/mcp-seo-marketing](https://github.com/ezbiz-services/mcp-seo-marketing) | Keyword research, SERP analysis, backlink checking, content optimisation | Local | API key | 0 | 2026-02-28 |
