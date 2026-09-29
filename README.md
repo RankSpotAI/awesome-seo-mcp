@@ -131,6 +131,7 @@ Multiple SEO functions behind one connection, mostly community wrappers around v
 | [TeamDay-AI/se-ranking-mcp](https://github.com/TeamDay-AI/se-ranking-mcp) | SE Ranking fork adding per-request credentials, useful for agencies | Local | API key | 0 | 2026-04-20 |
 | [Minh42/seomatic-mcp](https://github.com/Minh42/seomatic-mcp) | Search Console, keywords, backlinks and AI visibility with approval-gated actions | Remote | API key | 0 | 2026-09-11 |
 | [ezbiz-services/mcp-seo-marketing](https://github.com/ezbiz-services/mcp-seo-marketing) | Keyword research, SERP analysis, backlink checking, content optimisation | Local | API key | 0 | 2026-02-28 |
+| [techreone/xknow-mcp](https://github.com/techreone/xknow-mcp) | Serves XKnow's research-backed SEO/SaaS knowledge base to AI agents — 57 public guides free, 500+ notes with a purchased vault; includes lint rules and claim maps | Local | None | 0 | 2026-09-12 |
 
 ## SERP and web data
 
