@@ -76,6 +76,7 @@ Run by the vendor. These are the ones to reach for first if you already pay for 
 | Peec AI | `https://api.peec.ai/mcp` |
 | SEOmonitor | `https://mcp.seomonitor.com` |
 | RankSpot | `https://mcp.rankspot.ai` |
+| LogNorm | `https://lognorm.com/api/mcp` |
 
 ## Google Search Console
 
@@ -170,6 +171,7 @@ The newest and fastest moving category. Most entries here are under a year old.
 | [maxaeo/maxaeo-ai-visibility-mcp](https://github.com/maxaeo/maxaeo-ai-visibility-mcp) | Local-first GEO and AEO audit covering llms.txt, schema and crawler readiness | Local | None | 1 | 2026-08-26 |
 | [migkast/seoforgpt-mcp](https://github.com/migkast/seoforgpt-mcp) | Brand visibility in AI answers, competitor monitoring and cited sources | Local | API key | 1 | 2026-08-31 |
 | [Instilla-AI/seontology-mcp-server](https://github.com/Instilla-AI/seontology-mcp-server) | Semantic SEO analysis using the SEOntology vocabulary | Local | None | 0 | 2025-09-04 |
+| [lognorm/lognorm-mcp](https://github.com/lognorm/lognorm-mcp) | Site audit and AI-readiness findings, keyword and Search Console data, and ChatGPT, Gemini and AI Overviews answer tracking, exposed as a ranked task list for agents | Remote | OAuth | 0 | 2026-10-02 |
 
 ## Indexing, sitemaps and llms.txt
 
