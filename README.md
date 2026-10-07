@@ -165,6 +165,7 @@ The newest and fastest moving category. Most entries here are under a year old.
 | --- | --- | --- | --- | --- | --- |
 | [RankSpot](https://www.rankspot.ai/) | Visibility across ChatGPT, Claude, Gemini and AI Overviews, plus weekly actions | Remote | OAuth | n/a | live |
 | [Peec AI](https://docs.peec.ai/mcp/introduction) | Brand visibility, sentiment and citations, official server | Remote | API key | n/a | live |
+| [MentionsAPI](https://github.com/mukul-dutt/mentionsapi-mcp) | Brand mentions, rank, sentiment and citations across ChatGPT, Claude, Gemini, Perplexity, AI Overviews and Copilot, official server | Remote | OAuth | n/a | live |
 | [thein-art/mcp-server-peecai](https://github.com/thein-art/mcp-server-peecai) | Community Peec.ai server with 38 tools and full CRUD | Local | API key | 2 | 2026-06-22 |
 | [bestaiinsider/ai-visibility-mcp](https://github.com/bestaiinsider/ai-visibility-mcp) | Audits robots.txt per bot, JSON-LD, llms.txt and brand mentions in answers | Local | API key | 1 | 2026-05-23 |
 | [maxaeo/maxaeo-ai-visibility-mcp](https://github.com/maxaeo/maxaeo-ai-visibility-mcp) | Local-first GEO and AEO audit covering llms.txt, schema and crawler readiness | Local | None | 1 | 2026-08-26 |
