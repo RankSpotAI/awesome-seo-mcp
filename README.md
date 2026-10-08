@@ -55,6 +55,7 @@ Run by the vendor. These are the ones to reach for first if you already pay for 
 | [SerpApi](https://github.com/serpapi/serpapi-mcp) | Live results from Google, Bing, Baidu, YouTube and other engines | Local | API key | 178 | 2026-09-22 |
 | [Screaming Frog](https://www.screamingfrog.co.uk/blog/seo-spider-24/) | Native MCP in SEO Spider 24.0+, run and query crawls in natural language | Local | Paid licence | n/a | v24.0+ |
 | [Local Falcon](https://github.com/local-falcon/mcp) | Geo-grid local rank tracking, Google Business Profile, competitor analysis | Remote | API key | 24 | 2026-10-04 |
+| [Arcmira: YouTube Transcript Search](https://github.com/arcmira/mcp) | Timestamped passages and speaker appearances for content research. [Arcmira](https://arcmira.com) · [API docs](https://arcmira.com/docs) | Remote | OAuth | 4 | 2026-10-07 |
 | [SEOmonitor](https://github.com/BuntStudio/seomonitor-mcp-server) | Rank tracking, AI Overview visibility, keyword research, traffic forecasts | Remote | API key | 0 | 2026-10-01 |
 | [Peec AI](https://docs.peec.ai/mcp/introduction) | Brand visibility, sentiment and citations across ChatGPT and Perplexity | Remote | API key | n/a | live |
 | [RankSpot](https://www.rankspot.ai/) | AI visibility across ChatGPT, Claude, Gemini and AI Overviews, plus weekly action lists | Remote | OAuth | n/a | live |
@@ -70,6 +71,7 @@ Run by the vendor. These are the ones to reach for first if you already pay for 
 | Vendor | Endpoint |
 | --- | --- |
 | Ahrefs | `https://api.ahrefs.com/mcp/mcp` |
+| Arcmira | `https://mcp.arcmira.com/mcp` |
 | Semrush | `https://mcp.semrush.com/claude/v1/mcp` |
 | SE Ranking | `https://api.seranking.com/mcp` |
 | Local Falcon | `https://mcp.localfalcon.com` |
