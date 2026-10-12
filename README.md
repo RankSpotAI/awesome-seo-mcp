@@ -76,6 +76,7 @@ Run by the vendor. These are the ones to reach for first if you already pay for 
 | Peec AI | `https://api.peec.ai/mcp` |
 | SEOmonitor | `https://mcp.seomonitor.com` |
 | RankSpot | `https://mcp.rankspot.ai` |
+| OnPage.dev | `https://onpage.dev/mcp` |
 
 ## Google Search Console
 
@@ -148,6 +149,7 @@ See also SerpApi, Bright Data, Oxylabs and Apify in [Official servers](#official
 | [houtini-ai/seo-audit](https://github.com/houtini-ai/seo-audit) | Merges a first-party crawl with GSC, DataForSEO and Majestic into one audit | Local | API key | 39 | 2026-09-29 |
 | [cmg8431/web-meta-scraper](https://github.com/cmg8431/web-meta-scraper) | Extracts Open Graph, JSON-LD and media metadata with SEO validation | Local | None | 10 | 2026-02-23 |
 | [mgsrevolver/seo-inspector-mcp](https://github.com/mgsrevolver/seo-inspector-mcp) | Scans a project for common on-page SEO issues without leaving the editor | Local | None | 6 | 2025-03-07 |
+| [seoonpage/seo-mcp-server](https://github.com/seoonpage/seo-mcp-server) | Page and site audits for Google and AI search, log file analysis with bot IP verification, internal link graph, JSON-LD validation against rich result rules, hreflang, and fixes as code or CMS plans (WordPress, Shopify, Webflow, Ghost and more). Takes Search Console, GA4, Ahrefs or Semrush rows as input | Remote | None | 1 | 2026-10-12 |
 | [Docker-Hunterpedia/seo-mcp-server](https://github.com/Docker-Hunterpedia/seo-mcp-server) | General SEO validation and analysis, ships as a Docker image | Local | None | 0 | 2026-02-14 |
 
 ## Page speed and Core Web Vitals
