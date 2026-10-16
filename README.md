@@ -58,6 +58,7 @@ Run by the vendor. These are the ones to reach for first if you already pay for 
 | [SEOmonitor](https://github.com/BuntStudio/seomonitor-mcp-server) | Rank tracking, AI Overview visibility, keyword research, traffic forecasts | Remote | API key | 0 | 2026-10-01 |
 | [Peec AI](https://docs.peec.ai/mcp/introduction) | Brand visibility, sentiment and citations across ChatGPT and Perplexity | Remote | API key | n/a | live |
 | [RankSpot](https://www.rankspot.ai/) | AI visibility across ChatGPT, Claude, Gemini and AI Overviews, plus weekly action lists | Remote | OAuth | n/a | live |
+| [Cite42](https://github.com/Cite42/mcp) | Brand mentions, competitor rankings and cited sources across ChatGPT, Claude, Perplexity, Gemini and AI Overviews, plus keyword volume and Google Trends | Remote | OAuth | 0 | 2026-10-16 |
 | [Google Analytics](https://github.com/googleanalytics/google-analytics-mcp) | GA4 reporting with schema discovery | Local | Google OAuth | 3434 | 2026-10-02 |
 | [Google Ads](https://github.com/googleads/google-ads-mcp) | Read-only GAQL queries against Google Ads | Local | Google OAuth | 1030 | 2026-10-09 |
 | [Firecrawl](https://github.com/firecrawl/firecrawl-mcp-server) | Scraping and search, widely used for content and competitor research | Local | API key | 7585 | 2026-10-12 |
@@ -76,6 +77,7 @@ Run by the vendor. These are the ones to reach for first if you already pay for 
 | Peec AI | `https://api.peec.ai/mcp` |
 | SEOmonitor | `https://mcp.seomonitor.com` |
 | RankSpot | `https://mcp.rankspot.ai` |
+| Cite42 | `https://mcp.cite42.dev` |
 
 ## Google Search Console
 
@@ -169,6 +171,7 @@ The newest and fastest moving category. Most entries here are under a year old.
 | [bestaiinsider/ai-visibility-mcp](https://github.com/bestaiinsider/ai-visibility-mcp) | Audits robots.txt per bot, JSON-LD, llms.txt and brand mentions in answers | Local | API key | 1 | 2026-05-23 |
 | [maxaeo/maxaeo-ai-visibility-mcp](https://github.com/maxaeo/maxaeo-ai-visibility-mcp) | Local-first GEO and AEO audit covering llms.txt, schema and crawler readiness | Local | None | 1 | 2026-08-26 |
 | [migkast/seoforgpt-mcp](https://github.com/migkast/seoforgpt-mcp) | Brand visibility in AI answers, competitor monitoring and cited sources | Local | API key | 2 | 2026-08-31 |
+| [Cite42](https://github.com/Cite42/mcp) | Mention rate and rank per brand across ChatGPT, Claude, Perplexity, Gemini and AI Overviews, with the sources each answer cited, official server, pay per call | Remote | OAuth | 0 | 2026-10-16 |
 | [Instilla-AI/seontology-mcp-server](https://github.com/Instilla-AI/seontology-mcp-server) | Semantic SEO analysis using the SEOntology vocabulary | Local | None | 0 | 2025-09-04 |
 
 ## Indexing, sitemaps and llms.txt
