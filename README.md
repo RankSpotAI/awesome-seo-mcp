@@ -58,6 +58,7 @@ Run by the vendor. These are the ones to reach for first if you already pay for 
 | [SEOmonitor](https://github.com/BuntStudio/seomonitor-mcp-server) | Rank tracking, AI Overview visibility, keyword research, traffic forecasts | Remote | API key | 0 | 2026-10-01 |
 | [Peec AI](https://docs.peec.ai/mcp/introduction) | Brand visibility, sentiment and citations across ChatGPT and Perplexity | Remote | API key | n/a | live |
 | [RankSpot](https://www.rankspot.ai/) | AI visibility across ChatGPT, Claude, Gemini and AI Overviews, plus weekly action lists | Remote | OAuth | n/a | live |
+| [BacklinkGenie](https://backlinkgenie.com/mcp/) | Link-building outreach: finds posts where your product fits, drafts pitches for approval, reads replies and tracks earned links | Remote | OAuth | n/a | live |
 | [Google Analytics](https://github.com/googleanalytics/google-analytics-mcp) | GA4 reporting with schema discovery | Local | Google OAuth | 3434 | 2026-10-02 |
 | [Google Ads](https://github.com/googleads/google-ads-mcp) | Read-only GAQL queries against Google Ads | Local | Google OAuth | 1030 | 2026-10-09 |
 | [Firecrawl](https://github.com/firecrawl/firecrawl-mcp-server) | Scraping and search, widely used for content and competitor research | Local | API key | 7585 | 2026-10-12 |
@@ -76,6 +77,7 @@ Run by the vendor. These are the ones to reach for first if you already pay for 
 | Peec AI | `https://api.peec.ai/mcp` |
 | SEOmonitor | `https://mcp.seomonitor.com` |
 | RankSpot | `https://mcp.rankspot.ai` |
+| BacklinkGenie | `https://app.backlinkgenie.com/mcp` |
 
 ## Google Search Console
 
