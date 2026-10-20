@@ -149,6 +149,7 @@ See also SerpApi, Bright Data, Oxylabs and Apify in [Official servers](#official
 | [cmg8431/web-meta-scraper](https://github.com/cmg8431/web-meta-scraper) | Extracts Open Graph, JSON-LD and media metadata with SEO validation | Local | None | 10 | 2026-02-23 |
 | [mgsrevolver/seo-inspector-mcp](https://github.com/mgsrevolver/seo-inspector-mcp) | Scans a project for common on-page SEO issues without leaving the editor | Local | None | 6 | 2025-03-07 |
 | [Docker-Hunterpedia/seo-mcp-server](https://github.com/Docker-Hunterpedia/seo-mcp-server) | General SEO validation and analysis, ships as a Docker image | Local | None | 0 | 2026-02-14 |
+| [Sitemoth](https://sitemoth.com/docs/mcp/) | Runs desktop crawls and queries the results: issues, URLs per issue, inlinks and outlinks, page HTML, crawl compare, sitemap generation | Local | None | n/a | 2026-10-20 |
 
 ## Page speed and Core Web Vitals
 
