@@ -70,6 +70,7 @@ Run by the vendor. These are the ones to reach for first if you already pay for 
 | Vendor | Endpoint |
 | --- | --- |
 | Ahrefs | `https://api.ahrefs.com/mcp/mcp` |
+| API.market | `https://api.market/api/mcp/gateway` |
 | Semrush | `https://mcp.semrush.com/claude/v1/mcp` |
 | SE Ranking | `https://api.seranking.com/mcp` |
 | Local Falcon | `https://mcp.localfalcon.com` |
@@ -137,6 +138,7 @@ Multiple SEO functions behind one connection, mostly community wrappers around v
 | Server | What it does | Type | Auth | Stars | Updated |
 | --- | --- | --- | --- | --- | --- |
 | [marcopesani/mcp-server-serper](https://github.com/marcopesani/mcp-server-serper) | Serper API search plus webpage scraping | Local | API key | 169 | 2025-03-13 |
+| [API.market](https://api.market/api/mcp/gateway) | Proprietary gateway to discover and call search and scraping APIs for web research; free tiers and paid plans vary by API | Remote | OAuth / API key | n/a | live |
 
 See also SerpApi, Bright Data, Oxylabs and Apify in [Official servers](#official-servers).
 
