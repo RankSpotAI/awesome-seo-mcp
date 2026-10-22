@@ -58,6 +58,7 @@ Run by the vendor. These are the ones to reach for first if you already pay for 
 | [SEOmonitor](https://github.com/BuntStudio/seomonitor-mcp-server) | Rank tracking, AI Overview visibility, keyword research, traffic forecasts | Remote | API key | 0 | 2026-10-01 |
 | [Peec AI](https://docs.peec.ai/mcp/introduction) | Brand visibility, sentiment and citations across ChatGPT and Perplexity | Remote | API key | n/a | live |
 | [RankSpot](https://www.rankspot.ai/) | AI visibility across ChatGPT, Claude, Gemini and AI Overviews, plus weekly action lists | Remote | OAuth | n/a | live |
+| [Organiq](https://organiq.tech/integrations/mcp) | Google demand and rankings plus ChatGPT, Claude and Gemini answers to a site's buyer questions, turned into a prioritised action plan with coding-agent briefs; paid research is quoted before it runs | Remote | OAuth | n/a | live |
 | [Google Analytics](https://github.com/googleanalytics/google-analytics-mcp) | GA4 reporting with schema discovery | Local | Google OAuth | 3503 | 2026-10-02 |
 | [Google Ads](https://github.com/googleads/google-ads-mcp) | Read-only GAQL queries against Google Ads | Local | Google OAuth | 1050 | 2026-10-09 |
 | [Firecrawl](https://github.com/firecrawl/firecrawl-mcp-server) | Scraping and search, widely used for content and competitor research | Local | API key | 7637 | 2026-10-19 |
@@ -76,6 +77,7 @@ Run by the vendor. These are the ones to reach for first if you already pay for 
 | Peec AI | `https://api.peec.ai/mcp` |
 | SEOmonitor | `https://mcp.seomonitor.com` |
 | RankSpot | `https://mcp.rankspot.ai` |
+| Organiq | `https://organiq.tech/mcp` |
 
 ## Google Search Console
 
@@ -164,6 +166,7 @@ The newest and fastest moving category. Most entries here are under a year old.
 | Server | What it does | Type | Auth | Stars | Updated |
 | --- | --- | --- | --- | --- | --- |
 | [RankSpot](https://www.rankspot.ai/) | Visibility across ChatGPT, Claude, Gemini and AI Overviews, plus weekly actions | Remote | OAuth | n/a | live |
+| [Organiq](https://organiq.tech/integrations/mcp) | Google demand and rankings plus ChatGPT, Claude and Gemini answers to a site's buyer questions, turned into a prioritised action plan with coding-agent briefs; paid research is quoted before it runs | Remote | OAuth | n/a | live |
 | [Peec AI](https://docs.peec.ai/mcp/introduction) | Brand visibility, sentiment and citations, official server | Remote | API key | n/a | live |
 | [thein-art/mcp-server-peecai](https://github.com/thein-art/mcp-server-peecai) | Community Peec.ai server with 38 tools and full CRUD | Local | API key | 2 | 2026-06-22 |
 | [bestaiinsider/ai-visibility-mcp](https://github.com/bestaiinsider/ai-visibility-mcp) | Audits robots.txt per bot, JSON-LD, llms.txt and brand mentions in answers | Local | API key | 1 | 2026-05-23 |
