@@ -76,6 +76,7 @@ Run by the vendor. These are the ones to reach for first if you already pay for 
 | Peec AI | `https://api.peec.ai/mcp` |
 | SEOmonitor | `https://mcp.seomonitor.com` |
 | RankSpot | `https://mcp.rankspot.ai` |
+| CiteLadder | `https://api.citeladder.com/mcp` |
 
 ## Google Search Console
 
@@ -166,6 +167,7 @@ The newest and fastest moving category. Most entries here are under a year old.
 | [RankSpot](https://www.rankspot.ai/) | Visibility across ChatGPT, Claude, Gemini and AI Overviews, plus weekly actions | Remote | OAuth | n/a | live |
 | [Peec AI](https://docs.peec.ai/mcp/introduction) | Brand visibility, sentiment and citations, official server | Remote | API key | n/a | live |
 | [thein-art/mcp-server-peecai](https://github.com/thein-art/mcp-server-peecai) | Community Peec.ai server with 38 tools and full CRUD | Local | API key | 2 | 2026-06-22 |
+| [abhij1306/CiteLadder](https://github.com/abhij1306/CiteLadder) | Open-source, self-hostable tracker of how ChatGPT, Gemini, Claude and AI Overviews answer buyer questions, with the brands named and pages cited; 46 tools | Remote | OAuth | 2 | 2026-10-22 |
 | [bestaiinsider/ai-visibility-mcp](https://github.com/bestaiinsider/ai-visibility-mcp) | Audits robots.txt per bot, JSON-LD, llms.txt and brand mentions in answers | Local | API key | 1 | 2026-05-23 |
 | [maxaeo/maxaeo-ai-visibility-mcp](https://github.com/maxaeo/maxaeo-ai-visibility-mcp) | Local-first GEO and AEO audit covering llms.txt, schema and crawler readiness | Local | None | 1 | 2026-08-26 |
 | [migkast/seoforgpt-mcp](https://github.com/migkast/seoforgpt-mcp) | Brand visibility in AI answers, competitor monitoring and cited sources | Local | API key | 2 | 2026-08-31 |
