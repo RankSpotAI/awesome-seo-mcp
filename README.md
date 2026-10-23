@@ -147,6 +147,7 @@ See also SerpApi, Bright Data, Oxylabs and Apify in [Official servers](#official
 | [bzsasson/screaming-frog-mcp](https://github.com/bzsasson/screaming-frog-mcp) | Headless Screaming Frog runs with a locked-down tool surface, good for CI | Local | Paid licence | 93 | 2026-10-17 |
 | [houtini-ai/seo-audit](https://github.com/houtini-ai/seo-audit) | Merges a first-party crawl with GSC, DataForSEO and Majestic into one audit | Local | API key | 70 | 2026-10-17 |
 | [cmg8431/web-meta-scraper](https://github.com/cmg8431/web-meta-scraper) | Extracts Open Graph, JSON-LD and media metadata with SEO validation | Local | None | 10 | 2026-02-23 |
+| [spcaeo/toadstone](https://github.com/spcaeo/toadstone) | Self-hosted technical SEO crawler; exposes crawls, issues with stable ids, page details, crawl-to-crawl diffs and exports, read-only by default | Local | None | 7 | 2026-10-20 |
 | [mgsrevolver/seo-inspector-mcp](https://github.com/mgsrevolver/seo-inspector-mcp) | Scans a project for common on-page SEO issues without leaving the editor | Local | None | 6 | 2025-03-07 |
 | [Docker-Hunterpedia/seo-mcp-server](https://github.com/Docker-Hunterpedia/seo-mcp-server) | General SEO validation and analysis, ships as a Docker image | Local | None | 0 | 2026-02-14 |
 
