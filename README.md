@@ -56,6 +56,7 @@ Run by the vendor. These are the ones to reach for first if you already pay for 
 | [Screaming Frog](https://www.screamingfrog.co.uk/blog/seo-spider-24/) | Native MCP in SEO Spider 24.0+, run and query crawls in natural language | Local | Paid licence | n/a | v24.0+ |
 | [Local Falcon](https://github.com/local-falcon/mcp) | Geo-grid local rank tracking, Google Business Profile, competitor analysis | Remote | API key | 24 | 2026-10-06 |
 | [SEOmonitor](https://github.com/BuntStudio/seomonitor-mcp-server) | Rank tracking, AI Overview visibility, keyword research, traffic forecasts | Remote | API key | 0 | 2026-10-01 |
+| [SEOcrawl AI](https://seocrawl.ai/mcp) | Search Console, GA4, indexation, crawler issues and AI visibility across ChatGPT, Gemini, Perplexity, Claude and AI Overviews, plus SEO tasks | Remote | OAuth | n/a | live |
 | [Peec AI](https://docs.peec.ai/mcp/introduction) | Brand visibility, sentiment and citations across ChatGPT and Perplexity | Remote | API key | n/a | live |
 | [RankSpot](https://www.rankspot.ai/) | AI visibility across ChatGPT, Claude, Gemini and AI Overviews, plus weekly action lists | Remote | OAuth | n/a | live |
 | [Google Analytics](https://github.com/googleanalytics/google-analytics-mcp) | GA4 reporting with schema discovery | Local | Google OAuth | 3503 | 2026-10-02 |
@@ -75,6 +76,7 @@ Run by the vendor. These are the ones to reach for first if you already pay for 
 | Local Falcon | `https://mcp.localfalcon.com` |
 | Peec AI | `https://api.peec.ai/mcp` |
 | SEOmonitor | `https://mcp.seomonitor.com` |
+| SEOcrawl AI | `https://mcp.seocrawl.ai` |
 | RankSpot | `https://mcp.rankspot.ai` |
 
 ## Google Search Console
