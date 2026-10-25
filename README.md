@@ -278,3 +278,6 @@ The short version: the server has to actually exist, actually run, and speak MCP
 ---
 
 Maintained by [RankSpot](https://www.rankspot.ai/). If you want to know whether ChatGPT, Claude and Gemini recommend your brand, that is the problem we work on.
+
+- [DoomPay](https://github.com/doomsday-network/doom-pay) - Non-custodial 3-line Web3 checkout widget, REST API, and remote MCP payment receipt verifier (`wDOOM` on Base Mainnet & `DOOM` Layer-1).
+- [BountyGuard](https://github.com/doomsday-network/bounty-guard) - Zero-dependency MCP security server & CLI auditor that verifies on-chain bounty escrow before AI agents start work.
