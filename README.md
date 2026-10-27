@@ -70,6 +70,7 @@ Run by the vendor. These are the ones to reach for first if you already pay for 
 | Vendor | Endpoint |
 | --- | --- |
 | Ahrefs | `https://api.ahrefs.com/mcp/mcp` |
+| CrakSEO Search Console MCP | `https://crakseo.com/mcp/search-console` |
 | Semrush | `https://mcp.semrush.com/claude/v1/mcp` |
 | SE Ranking | `https://api.seranking.com/mcp` |
 | Local Falcon | `https://mcp.localfalcon.com` |
@@ -88,6 +89,7 @@ Google has no official GSC MCP server as of September 2026, so this category is 
 | [surendranb/google-search-console-mcp](https://github.com/surendranb/google-search-console-mcp) | GSC across Claude, Cursor, Windsurf and other clients | Local | Google OAuth | 40 | 2026-10-03 |
 | [Magdoub/awesome-gsc-mcp](https://github.com/Magdoub/awesome-gsc-mcp) | 27 tools with a caching layer and rate limiting | Local | Google OAuth | 14 | 2026-02-25 |
 | [serpfire/gsc-mcp-server](https://github.com/serpfire/gsc-mcp-server) | GSC plus built-in keyword cannibalisation detection | Local | Google OAuth | 11 | 2026-03-04 |
+| [CrakSEO Search Console MCP](https://docs.crakseo.com/mcp-servers/search-console) | Free owned-site GSC and Bing Webmaster performance, URL inspection and sitemaps | Remote | OAuth / API key; own Google or Bing authorization | n/a | n/a |
 
 ## Bing Webmaster Tools
 
