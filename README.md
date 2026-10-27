@@ -137,6 +137,7 @@ Multiple SEO functions behind one connection, mostly community wrappers around v
 | Server | What it does | Type | Auth | Stars | Updated |
 | --- | --- | --- | --- | --- | --- |
 | [marcopesani/mcp-server-serper](https://github.com/marcopesani/mcp-server-serper) | Serper API search plus webpage scraping | Local | API key | 171 | 2025-03-13 |
+| [FastAF](https://fastaf.co/docs/) | Google SERP, Amazon search and other public web data as JSON, 16 tools, pay per call ($0.003 SERP) via API key or x402 | Remote | API key | n/a | 2026-10-27 |
 
 See also SerpApi, Bright Data, Oxylabs and Apify in [Official servers](#official-servers).
 
