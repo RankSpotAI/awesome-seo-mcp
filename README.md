@@ -76,6 +76,7 @@ Run by the vendor. These are the ones to reach for first if you already pay for 
 | Peec AI | `https://api.peec.ai/mcp` |
 | SEOmonitor | `https://mcp.seomonitor.com` |
 | RankSpot | `https://mcp.rankspot.ai` |
+| VNCNT Labs SEO | `https://mcp.apify.com/?tools=vncntlabs/keyword-search-volume,vncntlabs/keyword-ideas,vncntlabs/domain-seo-data,vncntlabs/google-trends-search-volume,vncntlabs/ai-search-visibility-tracker,vncntlabs/google-maps-rank-tracker,vncntlabs/google-ads-transparency,vncntlabs/google-news-scraper,vncntlabs/seo-content-bundle,vncntlabs/google-rank-tracker,vncntlabs/backlink-checker,vncntlabs/website-seo-audit,vncntlabs/keyword-gap-finder` |
 
 ## Google Search Console
 
@@ -131,6 +132,7 @@ Multiple SEO functions behind one connection, mostly community wrappers around v
 | [TeamDay-AI/se-ranking-mcp](https://github.com/TeamDay-AI/se-ranking-mcp) | SE Ranking fork adding per-request credentials, useful for agencies | Local | API key | 1 | 2026-04-20 |
 | [Minh42/seomatic-mcp](https://github.com/Minh42/seomatic-mcp) | Search Console, keywords, backlinks and AI visibility with approval-gated actions | Remote | API key | 1 | 2026-10-16 |
 | [ezbiz-services/mcp-seo-marketing](https://github.com/ezbiz-services/mcp-seo-marketing) | Keyword research, SERP analysis, backlink checking, content optimisation | Local | API key | 0 | 2026-02-28 |
+| [PravinrajV/vncntlabs-apify-examples](https://github.com/PravinrajV/vncntlabs-apify-examples) | VNCNT Labs SEO group: 13 pay-per-use tools for keyword volume, ideas and gaps, Google rank tracking, backlinks, site audits, domain traffic and Trends | Remote | API key | 0 | 2026-10-30 |
 
 ## SERP and web data
 
