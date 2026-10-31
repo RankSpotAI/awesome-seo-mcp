@@ -76,6 +76,7 @@ Run by the vendor. These are the ones to reach for first if you already pay for 
 | Peec AI | `https://api.peec.ai/mcp` |
 | SEOmonitor | `https://mcp.seomonitor.com` |
 | RankSpot | `https://mcp.rankspot.ai` |
+| Comunicate.eu | `https://app.comunicate.eu/mcp` |
 
 ## Google Search Console
 
@@ -118,6 +119,7 @@ Google has no official GSC MCP server as of September 2026, so this category is 
 | [metehan777/moz-mcp](https://github.com/metehan777/moz-mcp) | Moz API v3, Domain Authority and Page Authority. Moz has no official server | Local | API key | 15 | 2025-06-13 |
 | [Rankparse/rankparse-mcp](https://github.com/Rankparse/rankparse-mcp) | 18+ tools for backlinks, domain authority and tech stack detection | Local | API key | 4 | 2026-05-23 |
 | [MattiooFR/majestic-mcp](https://github.com/MattiooFR/majestic-mcp) | Majestic Trust Flow, Citation Flow and backlink data | Local | API key | 0 | 2026-02-03 |
+| [Comunicate.eu](https://comunicate.eu/en/mcp) | Catalogue of 3,800+ news sites with DA, DR and prices, plus budget plans for press releases and advertorials | Remote | None | n/a | live |
 
 ## SEO suites
 
