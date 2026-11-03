@@ -49,6 +49,7 @@ Run by the vendor. These are the ones to reach for first if you already pay for 
 | Server | What it does | Type | Auth | Stars | Updated |
 | --- | --- | --- | --- | --- | --- |
 | [Ahrefs](https://docs.ahrefs.com/docs/mcp/) | Backlinks, keyword difficulty, competitor organic keywords, traffic history | Remote | OAuth | n/a | live |
+| [Arcmira: YouTube Transcript Search](https://github.com/arcmira/mcp) | Timestamped passages and speaker appearances for content research. [Arcmira](https://arcmira.com) · [API docs](https://arcmira.com/docs) | Remote | OAuth | 78 | 2026-10-30 |
 | [Semrush](https://developer.semrush.com/api/v4/introduction/semrush-mcp/) | Core SEO data, Trends market intelligence, read-only Projects data | Remote | OAuth | n/a | live |
 | [SE Ranking](https://seranking.com/api/integrations/mcp/) | 180+ tools covering keywords, backlinks, rank tracking, site audits, AI visibility | Remote | API key | n/a | live |
 | [DataForSEO](https://github.com/dataforseo/mcp-server-typescript) | Raw SERP, keyword, backlink, on-page and domain analytics data across 12 API groups | Local | API key | 259 | 2026-11-02 |
@@ -70,6 +71,7 @@ Run by the vendor. These are the ones to reach for first if you already pay for 
 | Vendor | Endpoint |
 | --- | --- |
 | Ahrefs | `https://api.ahrefs.com/mcp/mcp` |
+| Arcmira | `https://mcp.arcmira.com/mcp` |
 | Semrush | `https://mcp.semrush.com/claude/v1/mcp` |
 | SE Ranking | `https://api.seranking.com/mcp` |
 | Local Falcon | `https://mcp.localfalcon.com` |
