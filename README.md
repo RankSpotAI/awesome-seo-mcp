@@ -76,6 +76,7 @@ Run by the vendor. These are the ones to reach for first if you already pay for 
 | Peec AI | `https://api.peec.ai/mcp` |
 | SEOmonitor | `https://mcp.seomonitor.com` |
 | RankSpot | `https://mcp.rankspot.ai` |
+| Karma.Domains | `https://mcp.karma.domains/mcp` |
 
 ## Google Search Console
 
@@ -118,6 +119,7 @@ Google has no official GSC MCP server as of September 2026, so this category is 
 | [metehan777/moz-mcp](https://github.com/metehan777/moz-mcp) | Moz API v3, Domain Authority and Page Authority. Moz has no official server | Local | API key | 15 | 2025-06-13 |
 | [Rankparse/rankparse-mcp](https://github.com/Rankparse/rankparse-mcp) | 18+ tools for backlinks, domain authority and tech stack detection | Local | API key | 4 | 2026-05-23 |
 | [MattiooFR/majestic-mcp](https://github.com/MattiooFR/majestic-mcp) | Majestic Trust Flow, Citation Flow and backlink data | Local | API key | 0 | 2026-02-03 |
+| [karma-domains/expired-domains-mcp](https://github.com/karma-domains/expired-domains-mcp) | Expired, auction and backorder domains with Ahrefs/Majestic/Moz metrics, Wayback history and live WHOIS/DNS checks; Pro plan | Remote | OAuth | 0 | 2026-09-07 |
 
 ## SEO suites
 
