@@ -88,6 +88,7 @@ Google has no official GSC MCP server as of September 2026, so this category is 
 | [surendranb/google-search-console-mcp](https://github.com/surendranb/google-search-console-mcp) | GSC across Claude, Cursor, Windsurf and other clients | Local | Google OAuth | 40 | 2026-10-28 |
 | [Magdoub/awesome-gsc-mcp](https://github.com/Magdoub/awesome-gsc-mcp) | 27 tools with a caching layer and rate limiting | Local | Google OAuth | 14 | 2026-02-25 |
 | [serpfire/gsc-mcp-server](https://github.com/serpfire/gsc-mcp-server) | GSC plus built-in keyword cannibalisation detection | Local | Google OAuth | 11 | 2026-03-04 |
+| [yan-labs/gsc-mcp](https://github.com/yan-labs/gsc-mcp) | Read-only GSC server and CLI with striking-distance, low-CTR, cannibalisation and movers tools | Local | Google OAuth | 0 | 2026-11-04 |
 
 ## Bing Webmaster Tools
 
