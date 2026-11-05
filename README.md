@@ -55,6 +55,7 @@ Run by the vendor. These are the ones to reach for first if you already pay for 
 | [SerpApi](https://github.com/serpapi/serpapi-mcp) | Live results from Google, Bing, Baidu, YouTube and other engines | Local | API key | 183 | 2026-11-02 |
 | [Screaming Frog](https://www.screamingfrog.co.uk/blog/seo-spider-24/) | Native MCP in SEO Spider 24.0+, run and query crawls in natural language | Local | Paid licence | n/a | v24.0+ |
 | [Local Falcon](https://github.com/local-falcon/mcp) | Geo-grid local rank tracking, Google Business Profile, competitor analysis | Remote | API key | 26 | 2026-11-02 |
+| [CorpusIQ](https://github.com/CorpusIQ/corpusiq-docs) | Search Console, Bing Webmaster, GA4, Google Ads and 40+ other business systems behind one read-only endpoint, each figure cited to its source | Remote | OAuth | 29 | 2026-11-05 |
 | [SEOmonitor](https://github.com/BuntStudio/seomonitor-mcp-server) | Rank tracking, AI Overview visibility, keyword research, traffic forecasts | Remote | API key | 0 | 2026-10-01 |
 | [Peec AI](https://docs.peec.ai/mcp/introduction) | Brand visibility, sentiment and citations across ChatGPT and Perplexity | Remote | API key | n/a | live |
 | [RankSpot](https://www.rankspot.ai/) | AI visibility across ChatGPT, Claude, Gemini and AI Overviews, plus weekly action lists | Remote | OAuth | n/a | live |
@@ -76,6 +77,7 @@ Run by the vendor. These are the ones to reach for first if you already pay for 
 | Peec AI | `https://api.peec.ai/mcp` |
 | SEOmonitor | `https://mcp.seomonitor.com` |
 | RankSpot | `https://mcp.rankspot.ai` |
+| CorpusIQ | `https://mcp2.corpusiq.io/mcp` |
 
 ## Google Search Console
 
