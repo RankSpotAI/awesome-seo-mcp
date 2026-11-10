@@ -137,6 +137,7 @@ Multiple SEO functions behind one connection, mostly community wrappers around v
 | Server | What it does | Type | Auth | Stars | Updated |
 | --- | --- | --- | --- | --- | --- |
 | [marcopesani/mcp-server-serper](https://github.com/marcopesani/mcp-server-serper) | Serper API search plus webpage scraping | Local | API key | 171 | 2025-03-13 |
+| [rocosen/flashdata-mcp](https://github.com/rocosen/flashdata-mcp) | Google Search, News, Images, Shopping, Videos and Places; YouTube search, metadata, transcripts, captions, channels and suggestions for research (paid Credits) | Local | API key | 0 | 2026-11-10 |
 
 See also SerpApi, Bright Data, Oxylabs and Apify in [Official servers](#official-servers).
 
