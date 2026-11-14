@@ -76,6 +76,7 @@ Run by the vendor. These are the ones to reach for first if you already pay for 
 | Peec AI | `https://api.peec.ai/mcp` |
 | SEOmonitor | `https://mcp.seomonitor.com` |
 | RankSpot | `https://mcp.rankspot.ai` |
+| Scrapewise | `https://mcp.scrapewise.ai/mcp` |
 
 ## Google Search Console
 
@@ -137,6 +138,7 @@ Multiple SEO functions behind one connection, mostly community wrappers around v
 | Server | What it does | Type | Auth | Stars | Updated |
 | --- | --- | --- | --- | --- | --- |
 | [marcopesani/mcp-server-serper](https://github.com/marcopesani/mcp-server-serper) | Serper API search plus webpage scraping | Local | API key | 171 | 2025-03-13 |
+| [BEBOTECH-OU/scrapewise-mcp](https://github.com/BEBOTECH-OU/scrapewise-mcp) | Google search, page fetching and product and price data scraping, cleaning and matching | Remote | OAuth | 1 | 2026-11-14 |
 
 See also SerpApi, Bright Data, Oxylabs and Apify in [Official servers](#official-servers).
 
