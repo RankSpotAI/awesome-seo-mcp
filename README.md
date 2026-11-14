@@ -73,6 +73,7 @@ Run by the vendor. These are the ones to reach for first if you already pay for 
 | Semrush | `https://mcp.semrush.com/claude/v1/mcp` |
 | SE Ranking | `https://api.seranking.com/mcp` |
 | Local Falcon | `https://mcp.localfalcon.com` |
+| OpenAny | `https://mcp.openany.si` |
 | Peec AI | `https://api.peec.ai/mcp` |
 | SEOmonitor | `https://mcp.seomonitor.com` |
 | RankSpot | `https://mcp.rankspot.ai` |
@@ -130,6 +131,7 @@ Multiple SEO functions behind one connection, mostly community wrappers around v
 | [metehan777/semrush-mcp](https://github.com/metehan777/semrush-mcp) | Lighter alternative Semrush implementation | Local | API key | 16 | 2025-06-03 |
 | [TeamDay-AI/se-ranking-mcp](https://github.com/TeamDay-AI/se-ranking-mcp) | SE Ranking fork adding per-request credentials, useful for agencies | Local | API key | 1 | 2026-04-20 |
 | [Minh42/seomatic-mcp](https://github.com/Minh42/seomatic-mcp) | Search Console, keywords, backlinks and AI visibility with approval-gated actions | Remote | API key | 1 | 2026-11-09 |
+| [openanysi/openany-mcp](https://github.com/openanysi/openany-mcp) | 950+ SEO, search and scraping APIs (DataForSEO, Serper, Tavily) on one remote MCP, plus 3,200+ APIs and 168+ AI models | Remote | API key | 1 | 2026-11-14 |
 | [ezbiz-services/mcp-seo-marketing](https://github.com/ezbiz-services/mcp-seo-marketing) | Keyword research, SERP analysis, backlink checking, content optimisation | Local | API key | 0 | 2026-02-28 |
 
 ## SERP and web data
