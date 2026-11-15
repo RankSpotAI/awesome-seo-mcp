@@ -64,6 +64,7 @@ Run by the vendor. These are the ones to reach for first if you already pay for 
 | [Apify](https://github.com/apify/apify-mcp-server) | Thousands of prebuilt scrapers including SERP, maps and marketplace crawlers | Remote | API key | 15409 | 2026-11-09 |
 | [Bright Data](https://github.com/brightdata/brightdata-mcp) | Web access at scale, SERP scraping without getting blocked | Local | API key | 2717 | 2026-11-09 |
 | [Oxylabs](https://github.com/oxylabs/oxylabs-mcp) | SERP and web scraping through the Oxylabs proxy network | Local | API key | 104 | 2026-11-05 |
+| [SEO Rank Fixer](https://seorankfixer.com/connectors) | Google Search Console and Bing data: fixes ranked by estimated clicks, site audit, index status, page scans, AI search visibility | Remote | OAuth | 0 | 2026-11-15 |
 
 **Endpoints for the remote ones**, so you do not have to dig through docs:
 
@@ -76,6 +77,7 @@ Run by the vendor. These are the ones to reach for first if you already pay for 
 | Peec AI | `https://api.peec.ai/mcp` |
 | SEOmonitor | `https://mcp.seomonitor.com` |
 | RankSpot | `https://mcp.rankspot.ai` |
+| SEO Rank Fixer | `https://seorankfixer.com/api/mcp` |
 
 ## Google Search Console
 
