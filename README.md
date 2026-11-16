@@ -51,19 +51,19 @@ Run by the vendor. These are the ones to reach for first if you already pay for 
 | [Ahrefs](https://docs.ahrefs.com/docs/mcp/) | Backlinks, keyword difficulty, competitor organic keywords, traffic history | Remote | OAuth | n/a | live |
 | [Semrush](https://developer.semrush.com/api/v4/introduction/semrush-mcp/) | Core SEO data, Trends market intelligence, read-only Projects data | Remote | OAuth | n/a | live |
 | [SE Ranking](https://seranking.com/api/integrations/mcp/) | 180+ tools covering keywords, backlinks, rank tracking, site audits, AI visibility | Remote | API key | n/a | live |
-| [DataForSEO](https://github.com/dataforseo/mcp-server-typescript) | Raw SERP, keyword, backlink, on-page and domain analytics data across 12 API groups | Local | API key | 261 | 2026-11-02 |
-| [SerpApi](https://github.com/serpapi/serpapi-mcp) | Live results from Google, Bing, Baidu, YouTube and other engines | Local | API key | 184 | 2026-11-06 |
+| [DataForSEO](https://github.com/dataforseo/mcp-server-typescript) | Raw SERP, keyword, backlink, on-page and domain analytics data across 12 API groups | Local | API key | 262 | 2026-11-02 |
+| [SerpApi](https://github.com/serpapi/serpapi-mcp) | Live results from Google, Bing, Baidu, YouTube and other engines | Local | API key | 184 | 2026-11-12 |
 | [Screaming Frog](https://www.screamingfrog.co.uk/blog/seo-spider-24/) | Native MCP in SEO Spider 24.0+, run and query crawls in natural language | Local | Paid licence | n/a | v24.0+ |
-| [Local Falcon](https://github.com/local-falcon/mcp) | Geo-grid local rank tracking, Google Business Profile, competitor analysis | Remote | API key | 26 | 2026-11-09 |
+| [Local Falcon](https://github.com/local-falcon/mcp) | Geo-grid local rank tracking, Google Business Profile, competitor analysis | Remote | API key | 26 | 2026-11-11 |
 | [SEOmonitor](https://github.com/BuntStudio/seomonitor-mcp-server) | Rank tracking, AI Overview visibility, keyword research, traffic forecasts | Remote | API key | 0 | 2026-11-02 |
 | [Peec AI](https://docs.peec.ai/mcp/introduction) | Brand visibility, sentiment and citations across ChatGPT and Perplexity | Remote | API key | n/a | live |
 | [RankSpot](https://www.rankspot.ai/) | AI visibility across ChatGPT, Claude, Gemini and AI Overviews, plus weekly action lists | Remote | OAuth | n/a | live |
-| [Google Analytics](https://github.com/googleanalytics/google-analytics-mcp) | GA4 reporting with schema discovery | Local | Google OAuth | 3715 | 2026-11-09 |
-| [Google Ads](https://github.com/googleads/google-ads-mcp) | Read-only GAQL queries against Google Ads | Local | Google OAuth | 1136 | 2026-11-09 |
-| [Firecrawl](https://github.com/firecrawl/firecrawl-mcp-server) | Scraping and search, widely used for content and competitor research | Local | API key | 7788 | 2026-11-09 |
-| [Apify](https://github.com/apify/apify-mcp-server) | Thousands of prebuilt scrapers including SERP, maps and marketplace crawlers | Remote | API key | 15409 | 2026-11-09 |
-| [Bright Data](https://github.com/brightdata/brightdata-mcp) | Web access at scale, SERP scraping without getting blocked | Local | API key | 2717 | 2026-11-09 |
-| [Oxylabs](https://github.com/oxylabs/oxylabs-mcp) | SERP and web scraping through the Oxylabs proxy network | Local | API key | 104 | 2026-11-05 |
+| [Google Analytics](https://github.com/googleanalytics/google-analytics-mcp) | GA4 reporting with schema discovery | Local | Google OAuth | 3799 | 2026-11-16 |
+| [Google Ads](https://github.com/googleads/google-ads-mcp) | Read-only GAQL queries against Google Ads | Local | Google OAuth | 1181 | 2026-11-16 |
+| [Firecrawl](https://github.com/firecrawl/firecrawl-mcp-server) | Scraping and search, widely used for content and competitor research | Local | API key | 7835 | 2026-11-16 |
+| [Apify](https://github.com/apify/apify-mcp-server) | Thousands of prebuilt scrapers including SERP, maps and marketplace crawlers | Remote | API key | 16503 | 2026-11-16 |
+| [Bright Data](https://github.com/brightdata/brightdata-mcp) | Web access at scale, SERP scraping without getting blocked | Local | API key | 2728 | 2026-11-12 |
+| [Oxylabs](https://github.com/oxylabs/oxylabs-mcp) | SERP and web scraping through the Oxylabs proxy network | Local | API key | 106 | 2026-11-10 |
 
 **Endpoints for the remote ones**, so you do not have to dig through docs:
 
@@ -83,9 +83,9 @@ Google has no official GSC MCP server as of September 2026, so this category is 
 
 | Server | What it does | Type | Auth | Stars | Updated |
 | --- | --- | --- | --- | --- | --- |
-| [AminForou/mcp-gsc](https://github.com/AminForou/mcp-gsc) | 19+ tools with regex filtering, the most used GSC server by a wide margin | Local | Google OAuth | 2160 | 2026-11-06 |
-| [ahonn/mcp-server-gsc](https://github.com/ahonn/mcp-server-gsc) | Clean GSC wrapper, handles up to 25,000 rows per query | Local | Google OAuth | 283 | 2026-09-04 |
-| [surendranb/google-search-console-mcp](https://github.com/surendranb/google-search-console-mcp) | GSC across Claude, Cursor, Windsurf and other clients | Local | Google OAuth | 40 | 2026-11-08 |
+| [AminForou/mcp-gsc](https://github.com/AminForou/mcp-gsc) | 19+ tools with regex filtering, the most used GSC server by a wide margin | Local | Google OAuth | 2215 | 2026-11-06 |
+| [ahonn/mcp-server-gsc](https://github.com/ahonn/mcp-server-gsc) | Clean GSC wrapper, handles up to 25,000 rows per query | Local | Google OAuth | 286 | 2026-09-04 |
+| [surendranb/google-search-console-mcp](https://github.com/surendranb/google-search-console-mcp) | GSC across Claude, Cursor, Windsurf and other clients | Local | Google OAuth | 40 | 2026-11-10 |
 | [Magdoub/awesome-gsc-mcp](https://github.com/Magdoub/awesome-gsc-mcp) | 27 tools with a caching layer and rate limiting | Local | Google OAuth | 14 | 2026-02-25 |
 | [serpfire/gsc-mcp-server](https://github.com/serpfire/gsc-mcp-server) | GSC plus built-in keyword cannibalisation detection | Local | Google OAuth | 10 | 2026-03-04 |
 
@@ -102,7 +102,7 @@ Google has no official GSC MCP server as of September 2026, so this category is 
 
 | Server | What it does | Type | Auth | Stars | Updated |
 | --- | --- | --- | --- | --- | --- |
-| [andrewlwn77/google-trends-mcp](https://github.com/andrewlwn77/google-trends-mcp) | Google Trends interest over time and related queries | Local | None | 34 | 2025-07-13 |
+| [andrewlwn77/google-trends-mcp](https://github.com/andrewlwn77/google-trends-mcp) | Google Trends interest over time and related queries | Local | None | 36 | 2025-07-13 |
 | [hithereiamaliff/mcp-keywords-everywhere](https://github.com/hithereiamaliff/mcp-keywords-everywhere) | Keywords Everywhere API for volume and related terms | Local | API key | 10 | 2026-04-02 |
 | [mkotsollaris/kwrds-ai-mcp](https://github.com/mkotsollaris/kwrds-ai-mcp) | kwrds.ai keyword research and People Also Ask data | Local | API key | 7 | 2026-02-07 |
 | [HasData/google-trends-mcp](https://github.com/HasData/google-trends-mcp) | Trends by region, interest over time, related queries | Local | API key | 5 | 2026-10-29 |
@@ -112,7 +112,7 @@ Google has no official GSC MCP server as of September 2026, so this category is 
 
 | Server | What it does | Type | Auth | Stars | Updated |
 | --- | --- | --- | --- | --- | --- |
-| [cnych/seo-mcp](https://github.com/cnych/seo-mcp) | Free Ahrefs-sourced backlinks and keyword ideas, no Ahrefs seat needed | Local | None | 260 | 2025-04-14 |
+| [cnych/seo-mcp](https://github.com/cnych/seo-mcp) | Free Ahrefs-sourced backlinks and keyword ideas, no Ahrefs seat needed | Local | None | 259 | 2025-04-14 |
 | [egebese/dataseo-mcp](https://github.com/egebese/dataseo-mcp) | Backlinks, keyword research and traffic estimation from Ahrefs data | Local | None | 193 | 2026-07-06 |
 | [mrgoonie/seo-insights-mcp-server](https://github.com/mrgoonie/seo-insights-mcp-server) | Backlinks, keyword difficulty and traffic, with CLI support | Local | API key | 28 | 2025-11-24 |
 | [metehan777/moz-mcp](https://github.com/metehan777/moz-mcp) | Moz API v3, Domain Authority and Page Authority. Moz has no official server | Local | API key | 15 | 2025-06-13 |
@@ -144,8 +144,8 @@ See also SerpApi, Bright Data, Oxylabs and Apify in [Official servers](#official
 
 | Server | What it does | Type | Auth | Stars | Updated |
 | --- | --- | --- | --- | --- | --- |
-| [bzsasson/screaming-frog-mcp](https://github.com/bzsasson/screaming-frog-mcp) | Headless Screaming Frog runs with a locked-down tool surface, good for CI | Local | Paid licence | 94 | 2026-10-17 |
-| [houtini-ai/seo-audit](https://github.com/houtini-ai/seo-audit) | Merges a first-party crawl with GSC, DataForSEO and Majestic into one audit | Local | API key | 99 | 2026-11-03 |
+| [bzsasson/screaming-frog-mcp](https://github.com/bzsasson/screaming-frog-mcp) | Headless Screaming Frog runs with a locked-down tool surface, good for CI | Local | Paid licence | 96 | 2026-11-14 |
+| [houtini-ai/seo-audit](https://github.com/houtini-ai/seo-audit) | Merges a first-party crawl with GSC, DataForSEO and Majestic into one audit | Local | API key | 101 | 2026-11-11 |
 | [cmg8431/web-meta-scraper](https://github.com/cmg8431/web-meta-scraper) | Extracts Open Graph, JSON-LD and media metadata with SEO validation | Local | None | 11 | 2026-02-23 |
 | [mgsrevolver/seo-inspector-mcp](https://github.com/mgsrevolver/seo-inspector-mcp) | Scans a project for common on-page SEO issues without leaving the editor | Local | None | 7 | 2025-03-07 |
 | [Docker-Hunterpedia/seo-mcp-server](https://github.com/Docker-Hunterpedia/seo-mcp-server) | General SEO validation and analysis, ships as a Docker image | Local | None | 1 | 2026-02-14 |
@@ -154,7 +154,7 @@ See also SerpApi, Bright Data, Oxylabs and Apify in [Official servers](#official
 
 | Server | What it does | Type | Auth | Stars | Updated |
 | --- | --- | --- | --- | --- | --- |
-| [danielsogl/lighthouse-mcp-server](https://github.com/danielsogl/lighthouse-mcp-server) | 13+ tools for performance, accessibility, SEO and security audits | Local | None | 75 | 2026-11-09 |
+| [danielsogl/lighthouse-mcp-server](https://github.com/danielsogl/lighthouse-mcp-server) | 13+ tools for performance, accessibility, SEO and security audits | Local | None | 75 | 2026-11-16 |
 | [PhialsBasement/Pagespeed-MCP-Server](https://github.com/PhialsBasement/Pagespeed-MCP-Server) | PageSpeed Insights data as MCP tools | Local | API key | 13 | 2025-09-13 |
 
 ## AI search visibility (GEO and AEO)
@@ -176,7 +176,7 @@ The newest and fastest moving category. Most entries here are under a year old.
 | Server | What it does | Type | Auth | Stars | Updated |
 | --- | --- | --- | --- | --- | --- |
 | [janwilmake/LLMTEXT-mcp](https://github.com/janwilmake/LLMTEXT-mcp) | Converts llms.txt files into MCP servers, plus llms.txt tooling | Local | None | 51 | 2026-07-07 |
-| [mugoosse/sitemap-mcp-server](https://github.com/mugoosse/sitemap-mcp-server) | Fetches, parses and crawls sitemaps for any site | Local | None | 7 | 2026-08-08 |
+| [mugoosse/sitemap-mcp-server](https://github.com/mugoosse/sitemap-mcp-server) | Fetches, parses and crawls sitemaps for any site | Local | None | 8 | 2026-08-08 |
 | [sharozdawa/indexnow-mcp](https://github.com/sharozdawa/indexnow-mcp) | Submits URLs via IndexNow and the Google Indexing API | Local | API key | 2 | 2026-03-22 |
 | [cyber-kani/indexnow-mcp](https://github.com/cyber-kani/indexnow-mcp) | IndexNow submissions to Bing, Yandex, Seznam and Naver | Local | API key | 1 | 2026-07-07 |
 
@@ -184,7 +184,7 @@ The newest and fastest moving category. Most entries here are under a year old.
 
 | Server | What it does | Type | Auth | Stars | Updated |
 | --- | --- | --- | --- | --- | --- |
-| [semihbugrasezer/seerxo](https://github.com/semihbugrasezer/seerxo) | Etsy listing optimisation, generates titles, descriptions and tags | Local | API key | 29 | 2026-11-03 |
+| [semihbugrasezer/seerxo](https://github.com/semihbugrasezer/seerxo) | Etsy listing optimisation, generates titles, descriptions and tags | Local | API key | 29 | 2026-11-12 |
 | [KenanAtmaca/aso-mcp](https://github.com/KenanAtmaca/aso-mcp) | App Store Optimization keyword research and review sentiment, no API key | Local | None | 5 | 2026-06-12 |
 
 ## Archived or superseded
