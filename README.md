@@ -64,6 +64,7 @@ Run by the vendor. These are the ones to reach for first if you already pay for 
 | [Apify](https://github.com/apify/apify-mcp-server) | Thousands of prebuilt scrapers including SERP, maps and marketplace crawlers | Remote | API key | 16503 | 2026-11-16 |
 | [Bright Data](https://github.com/brightdata/brightdata-mcp) | Web access at scale, SERP scraping without getting blocked | Local | API key | 2728 | 2026-11-12 |
 | [Oxylabs](https://github.com/oxylabs/oxylabs-mcp) | SERP and web scraping through the Oxylabs proxy network | Local | API key | 106 | 2026-11-10 |
+| [SEOmatic](https://github.com/Minh42/seomatic-mcp) | Search Console, keywords, backlinks, local rank and AI visibility, plus site fixes you approve before they publish | Remote | OAuth | 1 | 2026-11-18 |
 
 **Endpoints for the remote ones**, so you do not have to dig through docs:
 
@@ -76,6 +77,7 @@ Run by the vendor. These are the ones to reach for first if you already pay for 
 | Peec AI | `https://api.peec.ai/mcp` |
 | SEOmonitor | `https://mcp.seomonitor.com` |
 | RankSpot | `https://mcp.rankspot.ai` |
+| SEOmatic | `https://app.seomatic.ai/api/mcp` |
 
 ## Google Search Console
 
@@ -129,7 +131,6 @@ Multiple SEO functions behind one connection, mostly community wrappers around v
 | [mrkooblu/semrush-mcp](https://github.com/mrkooblu/semrush-mcp) | 77 tools against the Semrush API, predates the official server | Local | API key | 40 | 2026-09-09 |
 | [metehan777/semrush-mcp](https://github.com/metehan777/semrush-mcp) | Lighter alternative Semrush implementation | Local | API key | 16 | 2025-06-03 |
 | [TeamDay-AI/se-ranking-mcp](https://github.com/TeamDay-AI/se-ranking-mcp) | SE Ranking fork adding per-request credentials, useful for agencies | Local | API key | 1 | 2026-04-20 |
-| [Minh42/seomatic-mcp](https://github.com/Minh42/seomatic-mcp) | Search Console, keywords, backlinks and AI visibility with approval-gated actions | Remote | API key | 1 | 2026-11-09 |
 | [ezbiz-services/mcp-seo-marketing](https://github.com/ezbiz-services/mcp-seo-marketing) | Keyword research, SERP analysis, backlink checking, content optimisation | Local | API key | 0 | 2026-02-28 |
 
 ## SERP and web data
