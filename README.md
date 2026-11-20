@@ -76,6 +76,7 @@ Run by the vendor. These are the ones to reach for first if you already pay for 
 | Peec AI | `https://api.peec.ai/mcp` |
 | SEOmonitor | `https://mcp.seomonitor.com` |
 | RankSpot | `https://mcp.rankspot.ai` |
+| Site Insights by KKV Labs | `https://insights.kkvlabs.com/mcp` |
 
 ## Google Search Console
 
@@ -88,6 +89,7 @@ Google has no official GSC MCP server as of September 2026, so this category is 
 | [surendranb/google-search-console-mcp](https://github.com/surendranb/google-search-console-mcp) | GSC across Claude, Cursor, Windsurf and other clients | Local | Google OAuth | 40 | 2026-11-10 |
 | [Magdoub/awesome-gsc-mcp](https://github.com/Magdoub/awesome-gsc-mcp) | 27 tools with a caching layer and rate limiting | Local | Google OAuth | 14 | 2026-02-25 |
 | [serpfire/gsc-mcp-server](https://github.com/serpfire/gsc-mcp-server) | GSC plus built-in keyword cannibalisation detection | Local | Google OAuth | 10 | 2026-03-04 |
+| [kkvlabs/site-insights](https://github.com/kkvlabs/site-insights) | Hosted Search Console, GA4 and optional Bing Webmaster data for many sites under one Google sign-in, read only | Remote | Google OAuth | 0 | 2026-11-20 |
 
 ## Bing Webmaster Tools
 
