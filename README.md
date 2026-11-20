@@ -76,6 +76,7 @@ Run by the vendor. These are the ones to reach for first if you already pay for 
 | Peec AI | `https://api.peec.ai/mcp` |
 | SEOmonitor | `https://mcp.seomonitor.com` |
 | RankSpot | `https://mcp.rankspot.ai` |
+| zaDojo | `https://app.zadojo.com/mcp` |
 
 ## Google Search Console
 
@@ -131,6 +132,7 @@ Multiple SEO functions behind one connection, mostly community wrappers around v
 | [TeamDay-AI/se-ranking-mcp](https://github.com/TeamDay-AI/se-ranking-mcp) | SE Ranking fork adding per-request credentials, useful for agencies | Local | API key | 1 | 2026-04-20 |
 | [Minh42/seomatic-mcp](https://github.com/Minh42/seomatic-mcp) | Search Console, keywords, backlinks and AI visibility with approval-gated actions | Remote | API key | 1 | 2026-11-09 |
 | [ezbiz-services/mcp-seo-marketing](https://github.com/ezbiz-services/mcp-seo-marketing) | Keyword research, SERP analysis, backlink checking, content optimisation | Local | API key | 0 | 2026-02-28 |
+| [zaDojo/seo-geo-mcp](https://github.com/zaDojo/seo-geo-mcp) | Free Search Console, GA4 and site audits, plus pay-as-you-go SERP, keyword, rank tracking and AI visibility data | Remote | OAuth | 0 | 2026-11-14 |
 
 ## SERP and web data
 
