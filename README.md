@@ -103,6 +103,7 @@ Google has no official GSC MCP server as of September 2026, so this category is 
 | Server | What it does | Type | Auth | Stars | Updated |
 | --- | --- | --- | --- | --- | --- |
 | [andrewlwn77/google-trends-mcp](https://github.com/andrewlwn77/google-trends-mcp) | Google Trends interest over time and related queries | Local | None | 36 | 2025-07-13 |
+| [AKzar1el/mcp-trendpulse](https://github.com/AKzar1el/mcp-trendpulse) | Google Trends interest, related demand and Google News research (best-effort providers) | Local | None | 18 | 2026-11-24 |
 | [hithereiamaliff/mcp-keywords-everywhere](https://github.com/hithereiamaliff/mcp-keywords-everywhere) | Keywords Everywhere API for volume and related terms | Local | API key | 10 | 2026-04-02 |
 | [mkotsollaris/kwrds-ai-mcp](https://github.com/mkotsollaris/kwrds-ai-mcp) | kwrds.ai keyword research and People Also Ask data | Local | API key | 7 | 2026-02-07 |
 | [HasData/google-trends-mcp](https://github.com/HasData/google-trends-mcp) | Trends by region, interest over time, related queries | Local | API key | 5 | 2026-10-29 |
